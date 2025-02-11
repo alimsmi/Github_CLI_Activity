@@ -1,0 +1,7 @@
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\bin\Debug\NumberGuessingCliGame.exe.config
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\bin\Debug\NumberGuessingCliGame.exe
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\bin\Debug\NumberGuessingCliGame.pdb
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\obj\Debug\NumberGuessingCliGame.csproj.AssemblyReference.cache
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\obj\Debug\NumberGuessingCliGame.csproj.CoreCompileInputs.cache
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\obj\Debug\NumberGuessingCliGame.exe
+C:\Users\Ali Masoumi\Desktop\Tamrin\C#\NumberGuessingCliGame\NumberGuessingCliGame\obj\Debug\NumberGuessingCliGame.pdb
